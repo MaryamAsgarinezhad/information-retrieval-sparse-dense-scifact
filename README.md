@@ -1,5 +1,3 @@
-# R2L Lab - Part 2: Implementation Challenge
-
 This project implements and evaluates two fundamental information retrieval systems, Sparse (BM25) and Dense (Sentence-Transformers + FAISS), on the SciFact dataset from the BEIR benchmark.
 ## Project Structure
 
